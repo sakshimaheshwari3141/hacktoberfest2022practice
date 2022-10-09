@@ -5,5 +5,6 @@ public class complement{
         int N = 15;
         System.out.println(~N);
         System.out.println(~N+1);
+        System.out.println(~N+2);
     }
 }
