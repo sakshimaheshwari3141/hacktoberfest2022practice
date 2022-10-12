@@ -4,5 +4,6 @@ public class UpperLowerCase {
         
         System.out.println((char)('S'|' '));
         System.out.println((char)('s'&'_'));
+        System.out.println((char)('s'&'_'));
     }
 }
