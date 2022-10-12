@@ -3,5 +3,6 @@ public class invertCase {
         //UpperCase to LowerCase
         System.out.println((char)('N'^' '));
         System.out.println((char)('a'^' '));
+        System.out.println((char)('a'^' '));
     }
 }
