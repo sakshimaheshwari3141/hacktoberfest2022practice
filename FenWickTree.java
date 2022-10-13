@@ -1,3 +1,5 @@
+
+
 //Fenwick tree best implementation
 
 import java.util.*;
