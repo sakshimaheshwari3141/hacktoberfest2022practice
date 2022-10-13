@@ -1,3 +1,7 @@
+
+
+//Fenwick tree best implementation
+
 import java.util.*;
 public class FenWickTree {
     int tree[];
